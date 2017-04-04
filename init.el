@@ -60,7 +60,7 @@
 ;; C indent style
 (setq c-defualt-style "linux"
       c-basic-offset 8)
-;; Package archives
+;; Package archives setup
 (require 'package)
 (setq package-archives '(("gnu" . "https://elpa.gnu.org/packages/")
 			("marmalade" . "https://marmalade-repo.org/packages/")
